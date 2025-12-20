@@ -1,0 +1,4 @@
+#Sat Mar 09 09:22:16 IST 2024
+base.0=D\:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

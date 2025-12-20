@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\menu_register.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\menu\\register.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_instructions.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\layout\\activity_instructions.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\menu_verify.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\menu\\verify.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_verify.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\layout\\activity_verify.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_display.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\menu_display.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\menu\\display.xml"
+    },
+    {
+        "merged": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\build\\intermediates\\merged_res\\debug\\menu_instructions.xml.flat",
+        "source": "D:\\Work\\freez\\androidx\\Women-Safety-App-Android-Project-Source-Code\\app\\src\\main\\res\\menu\\instructions.xml"
+    }
+]

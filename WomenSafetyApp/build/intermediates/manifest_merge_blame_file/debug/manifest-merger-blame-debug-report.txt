@@ -1,0 +1,124 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.prabhu.womensafetyapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:7:5-79
+11-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:7:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:8:5-67
+12-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:8:22-64
+13    <uses-permission android:name="android.permission.SEND_SMS" />
+13-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:9:5-67
+13-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:9:22-64
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" >
+14-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:10:5-11:23
+14-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:10:22-72
+15    </uses-permission>
+16
+17    <application
+17-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:12:5-60:19
+18        android:allowBackup="true"
+18-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:13:9-35
+19        android:debuggable="true"
+20        android:icon="@drawable/ic_launcher"
+20-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:14:9-45
+21        android:label="@string/app_name"
+21-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:15:9-41
+22        android:theme="@style/AppTheme" >
+22-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:16:9-40
+23        <activity
+23-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:17:9-26:20
+24            android:name="com.prabhu.womensafetyapp.MainActivity"
+24-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:18:13-66
+25            android:exported="true"
+25-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:19:13-36
+26            android:label="@string/app_name" >
+26-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:20:13-45
+27            <intent-filter>
+27-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:21:13-25:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:22:17-69
+28-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:22:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:24:17-77
+30-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:24:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:27:9-34:20
+34            android:name="com.prabhu.womensafetyapp.Register"
+34-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:28:13-62
+35            android:label="@string/title_activity_register"
+35-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:29:13-60
+36            android:parentActivityName="com.prabhu.womensafetyapp.MainActivity" >
+36-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:30:13-80
+37            <meta-data
+37-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:31:13-33:74
+38                android:name="android.support.PARENT_ACTIVITY"
+38-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:32:17-63
+39                android:value="com.prabhu.womensafetyapp.MainActivity" />
+39-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:33:17-71
+40        </activity>
+41        <activity
+41-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:35:9-42:20
+42            android:name="com.prabhu.womensafetyapp.Display"
+42-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:36:13-61
+43            android:label="@string/title_activity_display"
+43-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:37:13-59
+44            android:parentActivityName="com.prabhu.womensafetyapp.MainActivity" >
+44-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:38:13-80
+45            <meta-data
+45-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:31:13-33:74
+46                android:name="android.support.PARENT_ACTIVITY"
+46-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:32:17-63
+47                android:value="com.prabhu.womensafetyapp.MainActivity" />
+47-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:33:17-71
+48        </activity>
+49
+50        <service android:name="com.prabhu.womensafetyapp.BgService" />
+50-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:43:9-71
+50-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:43:18-68
+51
+52        <activity
+52-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:44:9-51:20
+53            android:name="com.prabhu.womensafetyapp.Instructions"
+53-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:45:13-66
+54            android:label="@string/title_activity_instructions"
+54-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:46:13-64
+55            android:parentActivityName="com.prabhu.womensafetyapp.MainActivity" >
+55-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:47:13-80
+56            <meta-data
+56-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:31:13-33:74
+57                android:name="android.support.PARENT_ACTIVITY"
+57-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:32:17-63
+58                android:value="com.prabhu.womensafetyapp.MainActivity" />
+58-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:33:17-71
+59        </activity>
+60        <activity
+60-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:52:9-59:20
+61            android:name="com.prabhu.womensafetyapp.Verify"
+61-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:53:13-60
+62            android:label="@string/title_activity_verify"
+62-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:54:13-58
+63            android:parentActivityName="com.prabhu.womensafetyapp.MainActivity" >
+63-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:55:13-80
+64            <meta-data
+64-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:31:13-33:74
+65                android:name="android.support.PARENT_ACTIVITY"
+65-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:32:17-63
+66                android:value="com.prabhu.womensafetyapp.MainActivity" />
+66-->D:\Work\freez\androidx\Women-Safety-App-Android-Project-Source-Code\app\src\main\AndroidManifest.xml:33:17-71
+67        </activity>
+68    </application>
+69
+70</manifest>
